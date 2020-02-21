@@ -1,0 +1,70 @@
+---
+login: "lzka.dev"
+password: "Lucas1997"
+
+debug: 0
+user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0"
+
+tag_list: ["docker", "csharpdotnet", "csharp", "html", "css", "python", "kali", "programação", "desenvolvedores", "site", "sistemas", "games", "hacker", "linux", "windows", "software", "escola", "java", "ccp", "ads", "programming", "apple", "celulalr", "gamer", "javascript"]
+tag_blacklist: ["sex", "porno"]
+
+like_per_day: 196
+max_like_for_one_tag: 50
+media_min_like: 0
+media_max_like: 100
+like_followers_per_run: 100
+
+unlike_per_day: 70
+time_till_unlike: 259200
+
+follow_per_day: 200
+follow_time: 259200
+follow_attempts: 10
+user_min_follow: 200
+user_max_follow: 2200
+
+unfollow_per_day: 199
+unfollow_break_min: 3
+unfollow_break_max: 17
+unfollow_selebgram: false
+unfollow_probably_fake: true
+unfollow_inactive: true
+unfollow_recent_feed: false
+unfollow_whitelist: []
+
+unwanted_username_list: ["free", "travel", "shop", "store", "sex", "online", "bitcoin", "coin", "youtuber", "dev", "blog", "magazine", "vitrine", "adega", "brecho", "loja", ""]
+comments_per_day: 30
+comment_list: [
+        ["Essa"],
+        ["foto"],
+        ["é", "parece", "sente", "é realmente"],
+        [
+            "ótimo",
+            "super",
+            "Boa",
+            "muito bom",
+            "Boa",
+            "Uau",
+            "UAU",
+            "legal",
+            "ÓTIMO",
+            "magnífico",
+            "mágico",
+            "muito legal",
+            "à moda",
+            "lindo",
+            "tão bonito",
+            "Tão estiloso",
+            "tão profissional",
+            "adorável",
+            "tão amável",
+            "muito amável",
+            "glorioso",
+            "tão glorioso",
+            "muito glorioso",
+            "adorável",
+            "excelente",
+            "surpreendente",
+        ],
+        [".", "..", "...", "!", "!!", "!!!"],
+    ]
