@@ -1,12 +1,12 @@
 ---
-login: "lzka.dev"
-password: "Lucas1997"
+login: "Guinho_castro"
+password: "guinho149"
 
 debug: 0
 user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0"
 
-tag_list: ["docker", "csharpdotnet", "csharp", "html", "css", "python", "kali", "programação", "desenvolvedores", "site", "sistemas", "games", "hacker", "linux", "windows", "software", "escola", "java", "ccp", "ads", "programming", "apple", "celulalr", "gamer", "javascript"]
-tag_blacklist: ["sex", "porno"]
+tag_list: ["personal", "fitness", "academia", "saude", "bemestar", "body", "corrida", "musculacao", "musculação", "shape", "suplemento"]
+tag_blacklist: ["sex", "porno", "moda", "store"]
 
 like_per_day: 196
 max_like_for_one_tag: 50
@@ -33,7 +33,7 @@ unfollow_recent_feed: false
 unfollow_whitelist: []
 
 unwanted_username_list: ["free", "travel", "shop", "store", "sex", "online", "bitcoin", "coin", "youtuber", "dev", "blog", "magazine", "vitrine", "adega", "brecho", "loja", ""]
-comments_per_day: 30
+comments_per_day: 0
 comment_list: [
         ["Essa"],
         ["foto"],
